@@ -3,11 +3,80 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1431]Kids With the Greatest Number of Candies.java">
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1108]Defanging an IP Address.java">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1431]Kids With the Greatest Number of Candies.java" />
-              <option name="questionId" value="1528" />
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/doc/content/[1108]Defanging an IP Address.md" />
+              <option name="frontendQuestionId" value="leetcode.com1108" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1108]Defanging an IP Address.java" />
+              <option name="titleSlug" value="defanging-an-ip-address" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1683]Invalid Tweets.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/doc/content/[1683]Invalid Tweets.md" />
+              <option name="frontendQuestionId" value="leetcode.com1683" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1683]Invalid Tweets.java" />
+              <option name="titleSlug" value="invalid-tweets" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1757]Recyclable and Low Fat Products.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/doc/content/[1757]Recyclable and Low Fat Products.md" />
+              <option name="frontendQuestionId" value="leetcode.com1757" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1757]Recyclable and Low Fat Products.java" />
+              <option name="titleSlug" value="recyclable-and-low-fat-products" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1920]Build Array from Permutation.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/doc/content/[1920]Build Array from Permutation.md" />
+              <option name="frontendQuestionId" value="leetcode.com1920" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1920]Build Array from Permutation.java" />
+              <option name="titleSlug" value="build-array-from-permutation" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1]Two Sum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/doc/content/[1]Two Sum.md" />
+              <option name="frontendQuestionId" value="leetcode.com1" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1]Two Sum.java" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[2405]Optimal Partition of String.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/doc/content/[2405]Optimal Partition of String.md" />
+              <option name="frontendQuestionId" value="leetcode.com2405" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[2405]Optimal Partition of String.java" />
+              <option name="titleSlug" value="optimal-partition-of-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[35]Search Insert Position.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/doc/content/[35]Search Insert Position.md" />
+              <option name="frontendQuestionId" value="leetcode.com35" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[35]Search Insert Position.java" />
+              <option name="titleSlug" value="search-insert-position" />
             </LeetcodeEditor>
           </value>
         </entry>
