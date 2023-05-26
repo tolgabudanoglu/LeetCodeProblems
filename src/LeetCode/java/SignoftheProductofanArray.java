@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.java;
 
 public class SignoftheProductofanArray {
     public static void main(String[] args) {

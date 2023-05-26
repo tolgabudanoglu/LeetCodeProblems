@@ -1,4 +1,4 @@
-package LeetCode
+package LeetCode.kotlin
 
 import java.util.*
 

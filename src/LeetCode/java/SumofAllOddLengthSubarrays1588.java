@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.java;
 
 public class SumofAllOddLengthSubarrays1588 {
     public static void main(String[] args) {
