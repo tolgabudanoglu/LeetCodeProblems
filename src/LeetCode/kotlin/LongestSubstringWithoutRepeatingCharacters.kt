@@ -31,7 +31,7 @@ fun lengthOfLongestSubstring(s: String): Int {
 }
 
 fun lengthOfLongestSubstring2(s: String): Int {
-    val set = mutableSetOf<Char>()
+    val set = HashSet<Char>()
     var result = 0
     var left = 0
     var right = 0
