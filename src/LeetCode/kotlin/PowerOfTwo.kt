@@ -1,5 +1,7 @@
 package LeetCode.kotlin
 
+
+//2 nin üssü sayıları bulma
 fun main() {
     isPowerOfTwo(0)
 
