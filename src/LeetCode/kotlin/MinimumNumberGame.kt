@@ -9,11 +9,10 @@ fun main() {
 fun numberGame(nums: IntArray): IntArray {
     nums.sort()
 
-    // Initializing the output array.
+
     val arr = IntArray(nums.size)
 
-    // Selecting the elements from the input array
-    // according to the given rules.
+
 
     for (i in 1 until nums.size step 2) {
         arr[i - 1] = nums[i]
